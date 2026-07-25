@@ -8,6 +8,11 @@
 
 </div>
 
+### Migration Notice
+
+Scripts previously released under **DarkRaven Scripts (DRS)** are being moved to this organization.  
+This is now the official and only supported home for all future updates.
+
 ---
 
 ## 🎮 FiveM Scripts
