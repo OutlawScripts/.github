@@ -23,7 +23,7 @@ This is now the official and only supported home for all future updates.
 | **Outlaw_Tireslash** | ✅ Available | Underground item trading & black market economy | [Get →](https://github.com/OutlawScripts/Outlaw_Tireslash) | ![Last Commit](https://img.shields.io/github/last-commit/OutlawScripts/Outlaw_Tireslash?style=for-the-badge&label=) |
 | **Outlaw_Diceroll** | 🔧 Updating | Luck-based gambling interactions for RP servers | Coming Soon | |
 | **Outlaw_Bugreport** | ✅ Available | An in-game /bug reporting system. Sends to Discord via webhooks. | [Get →](https://github.com/OutlawScripts/Outlaw_BugReport) | ![Last Commit](https://img.shields.io/github/last-commit/OutlawScripts/Outlaw_BugReport?style=for-the-badge&label=) |
-| **Outlaw_AFK** | 🔧 Updating | An afk script that will kick players after x time if x players are online. | Coming Soon | |
+| **Outlaw_AFK** | ✅ Available | An afk script that will kick players after x time if x players are online. | ![Last Commit](https://img.shields.io/github/last-commit/OutlawScripts/Outlaw_AFK?style=for-the-badge&label=) | |
 | **Outlaw_Rentals** | 🔧 In Dev | Vehicle & property rental system | Coming Soon | |
 | **Outlaw_Pharmacy** | 🔧 In Dev | Enables painkillers item to heal overtime | Coming Soon | |
 
